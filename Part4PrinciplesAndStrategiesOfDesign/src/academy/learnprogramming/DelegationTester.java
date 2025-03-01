@@ -1,17 +1,19 @@
 package academy.learnprogramming;
 
+// the "delegate"
 class RealPrinter {
-    // the "delegate"
+
     void print() {
         System.out.println("The Delegate");
     }
 }
 
+// the "delegator"
 class Printer {
-    // the "delegator"
-    RealPrinter p = new RealPrinter();
 
     // create the delegate
+    RealPrinter p = new RealPrinter();
+
     void print() {
         p.print();  // delegation
     }
