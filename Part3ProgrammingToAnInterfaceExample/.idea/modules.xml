@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Part3ProgrammingToAnInterfaceExample.iml" filepath="$PROJECT_DIR$/Part3ProgrammingToAnInterfaceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Part4PrinciplesAndStrategiesOfDesign/Part4PrinciplesAndStrategiesOfDesign.iml" filepath="$PROJECT_DIR$/../Part4PrinciplesAndStrategiesOfDesign/Part4PrinciplesAndStrategiesOfDesign.iml" />
     </modules>
   </component>
 </project>
