@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.delegation;
 
 // the "delegate"
 class RealPrinter {
