@@ -1,3 +1,4 @@
+package academy.learnprogramming.singleresponsibility;
 
 interface DisplayModule {
     public void display();
