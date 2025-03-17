@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.solution;
 
 public class FactoryProducer {
     public static MovieFactoryInterface getFactory(String choice) {

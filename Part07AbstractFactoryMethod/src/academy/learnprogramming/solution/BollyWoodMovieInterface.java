@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.solution;
 
 interface BollyWoodMovieInterface {
     String getMovieName();
