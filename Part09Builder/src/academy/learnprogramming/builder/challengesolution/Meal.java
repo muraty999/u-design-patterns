@@ -1,7 +1,5 @@
 package academy.learnprogramming.builder.challengesolution;
 
-import academy.learnprogramming.Item;
-
 import java.util.ArrayList;
 import java.util.List;
 
